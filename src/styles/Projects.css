@@ -1,0 +1,24 @@
+/* Project Section*/
+.projects-sec {
+    padding-bottom: 150px;
+  }
+  
+  
+  .project {
+  margin-top: 20px;
+  padding: 100px 150px;
+  text-align: center;
+  }
+  
+  
+  .card-project {
+    width: 18rem;
+    height: 35rem;
+  }
+  
+  
+  .card-project-text {
+    padding-block: 50px;
+     text-align: center; 
+  }
+  

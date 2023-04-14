@@ -1,0 +1,27 @@
+/* Nav bar */
+.navbar-nav .nav-item .nav-link{
+    font-size: 16pt;
+    margin-right: 30px;
+  }
+  
+  .navbar-nav .nav-item.active .nav-link,
+  .navbar-nav .nav-item:hover .nav-link {
+    color: #00A8CC;
+    text-decoration: underline;
+  
+  }
+  
+  
+  
+  .logo {
+    background: -webkit-linear-gradient(#256D85, #8c48c0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    letter-spacing:-1px ;
+    font-weight: 900;
+    font-family: Helvetica, sans-serif;
+    margin-left: 30px;
+    
+  }
+  

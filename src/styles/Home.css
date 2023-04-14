@@ -1,0 +1,30 @@
+/* Main-sec */
+
+.main-sec-heading {
+    color: #00A8CC;
+  }
+  
+  
+  
+  .main-sec {
+    height: 50vh;
+  }
+  
+  
+  section p {
+    
+    font-size: 18pt;
+  }
+  
+  
+  .main-img {
+    width: 300px;
+    height: 300px;
+  }
+  
+  .computer-img {
+    width: 750px;
+    height: 400px;
+  } 
+  
+  

@@ -1,0 +1,45 @@
+/* About Section*/
+
+.intro-sec {
+    background-color: #00A8CC;
+    padding-bottom: 150px;
+    
+  }
+  
+  
+  
+  .intro {
+    margin-top: 20px; 
+    padding: 100px 150px;
+    color: white;
+  }
+  
+  
+  .intro p {
+    width: 50vw;
+    text-align: justify;
+  }
+  
+  
+  .card h5 {
+    color: #00A8CC;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  .card-skills {
+    width: 25rem;
+    height: 650px;
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  
+  .skills-icon {
+    font-size: 54pt;
+    color: #00A8CC;
+    padding: 20px;
+  }
+  

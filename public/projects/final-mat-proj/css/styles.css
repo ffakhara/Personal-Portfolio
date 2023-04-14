@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'RedHatMono';
+    src: url(../font/RedHatMono-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    font-family: RedHatMono, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+}
+
+header {
+    display: flex;
+    background-color: white;
+    color: white;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+h1,h2,h3 {
+    color: #78ae4b;
+}
+
+.logo {
+    color: #78ae4b;
+    font-weight: 700;
+}
+
+nav>ul {
+    width: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    
+
+}
+
+nav>ul>li>a {
+    color: #78ae4b;
+    text-decoration: none;
+}
+
+nav>ul>li>a:hover {
+    text-decoration: underline;
+}
+
+.main-image-sec {
+    height: 300px; 
+    overflow-y: hidden;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.main-text {
+    padding: 20px 45px;
+}
+
+ main section {
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+    
+}
+
+main section article {
+    width: 300px;
+}
+
+ main section article p {
+    text-align: justify;
+}
+
+ main section article img {
+    width: 300px;
+    height: 250px;
+}
+
+footer {
+    background-color: #78ae4b;
+    color: white;
+    bottom:0;
+    height:160px;
+    padding:  20px 45px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+/**------------------------Style for Menu---------------------*/
+
+section.menu {
+    display: flex;
+    margin: 100px 10px;
+}
+
+/**------------------------Style for Contact---------------------*/
+
+section.contact {
+    display: flex;
+    margin: 100px 10px;
+}
+
+button {
+    border: 0px;
+    border-radius: 5px;
+    background-color: #78ae4b;
+    color: white;
+    width: 70px;
+    height: 30px;
+}
+
+/**-----------------------Style for About---------------------*/
+div.about {
+    padding: 80px 100px;
+    text-align: justify;
+}
